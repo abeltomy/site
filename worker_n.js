@@ -1,16 +1,17 @@
   /* CONFIGURATION STARTS HERE */
   
   /* Step 1: enter your domain name like fruitionsite.com */
-  const MY_DOMAIN = 'MYDOMAIN';
+  const MY_DOMAIN = 'abeltomy.com';
   
   /*
    * Step 2: enter your URL slug to page ID mapping
    * The key on the left is the slug (without the slash)
    * The value on the right is the Notion page ID
    */
-  const SLUG_TO_PAGE = {
-    '': 'YOURPAGEID'
-  };
+const SLUG_TO_PAGE = {
+'': '72e9486a5d2346f6b58261182ea4932a',
+'about': '9feef0917c2c463594851ef6acfff1dd',
+};
   
   /* Step 3: enter your page title and description for SEO purposes */
   const PAGE_TITLE = '';
